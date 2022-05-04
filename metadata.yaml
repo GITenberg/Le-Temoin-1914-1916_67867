@@ -1,0 +1,36 @@
+_repo: Le-Temoin-1914-1916_67867
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aicard, Jean
+    aliases:
+    - Aicard, Jean François Victor
+    - Aicard, Jean Francois Victor
+    birthdate: 1848
+    deathdate: 1921
+    gutenberg_agent_id: '6209'
+    url: http://www.gutenberg.org/2009/agents/6209
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean_Aicard
+    - https://en.wikipedia.org/wiki/Jean_Aicard
+description: ''
+gutenberg_issued: '2022-04-18'
+identifiers:
+  gutenberg: '67867'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k6118462p
+pgterms:marc905: 20220415024050aicard
+pgterms:marc906: '1916'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Ernest Flammarion,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- GITenberg
+title: 'Le Témoin: 1914-1916'
+url: http://www.gutenberg.org/ebooks/67867
