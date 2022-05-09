@@ -1,5 +1,8 @@
 _repo: Le-Temoin-1914-1916_67867
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67867-h/images/cover.jpg
 creator:
   author:
     agent_name: Aicard, Jean
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jean_Aicard
     - https://en.wikipedia.org/wiki/Jean_Aicard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67867#Le-Temoin-1914-1916
 gutenberg_issued: '2022-04-18'
 identifiers:
   gutenberg: '67867'
